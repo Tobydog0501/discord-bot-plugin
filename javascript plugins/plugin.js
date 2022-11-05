@@ -4,5 +4,9 @@ class plugin{
         this.#pack = Discord;
     }
 
+    #writeFile = function(){
+
+        return
+    }
     
 }
